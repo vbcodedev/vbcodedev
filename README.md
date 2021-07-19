@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vbcodedev
 - 👀 I’m interested in the future of tech.
 - 🌱 I'm an aspiring Software Engineer and an undergraduate student at Stony Brook University. 
-- 📫 How to reach me: vanshajbawa1@gmail.com
+- 📫 How to reach me: vanshaj.bawa@stonybrook.edu
